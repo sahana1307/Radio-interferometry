@@ -1,3 +1,5 @@
+%Radio Interferometry
+%Acknowledgement: Code is the Octave version of python code: friendlyVRI
 clc;
 clear all;
 % Speed of light and lambda calculation
